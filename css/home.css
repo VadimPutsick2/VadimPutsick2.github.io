@@ -1,6 +1,6 @@
 .pr-home-photo {
     flex: 2 2 50%;
-    height: 100vh;   
+    /* height: 100vh;    */
     /* Visual */
     background-color: #f0e2d7;
     background-image: url(../img/5.jpg);
@@ -20,12 +20,12 @@
 .pr-home-info {
     padding: 0 45px;
     flex: 2 2 50%;
-    height: 100vh;
+    /* height: 100vh; */
     box-sizing: border-box;  
     background-color: #f0e2d7;
 }
 .pr-home-info-content{
-    padding: 0 45px 0 45px;
+    padding: 30px 45px;
 }
 
 /* Menu */
